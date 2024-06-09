@@ -1,4 +1,4 @@
-## **Welcome to my repository, here you can find out what i studied and what i have been studying, i am just a Computer Science student learning.**
+### **Welcome to my repository, here you can find out what i studied and what i have been studying, i am just a Computer Science student learning.**
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vtzaom&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=008000&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vtzaom&bg_color=000&border_color=30A3DC&title_color=008000&text_color=FFF)
